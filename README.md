@@ -29,4 +29,4 @@ Possible Use Cases 💡
 Getting Started 🚀
 Load the dataset using your favorite tools like Pandas or Excel.
 
-Dive into analysis, visualization, or building ML models.
+Dive into analysis, visualization and building ML models.
